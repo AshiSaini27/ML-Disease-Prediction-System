@@ -2,6 +2,8 @@
 
 A Machine Learning web application that predicts diseases based on symptoms using a Random Forest Classifier.
 
+# Live Demo Link : https://ml-disease-prediction-system-ashi.streamlit.app/
+
 ## Features
 
 - Predict diseases from symptoms
